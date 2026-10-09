@@ -1,0 +1,7 @@
+# Datos con información personal: nunca al repositorio
+raw/
+dataset_mora.csv
+*.xls
+*.xlsx
+.ipynb_checkpoints/
+__pycache__/
